@@ -1,0 +1,22 @@
+{
+  "name": "newnote",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "eslint-config-react-app": "^0.5.0",
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2",
+    "react-router": "^0.13.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
